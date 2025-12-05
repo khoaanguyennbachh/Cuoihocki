@@ -49,7 +49,7 @@ Interactive celestial contact form to “request divine assistance”
 ## Demo 
 
 The live project can be accessed here:
-[Tây Du Ký Live Demo] (https://minhtruong4.github.io/Cuoihocki/#)
+[Tây Du Ký Live Demo](https://minhtruong4.github.io/Cuoihocki/#)
 
 ---
 
